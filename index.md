@@ -6,9 +6,10 @@ layout: default
 
 ## About
 
-I do research at the [Center on Long-Term Risk](https://longtermrisk.org/). My public work can be found on the [Effective Altruism Forum](https://forum.effectivealtruism.org/users/tristan-cook) and [LessWrong](https://lesswrong.com/users/tristan-cook).
+I am a researcher at the [Center on Long-Term Risk](https://longtermrisk.org/). My public work can be found on the [Effective Altruism Forum](https://forum.effectivealtruism.org/users/tristan-cook) and [LessWrong](https://lesswrong.com/users/tristan-cook).
 
 I am an aspiring [effective altruist](https://www.effectivealtruism.org/) and member of [Giving What We Can](https://www.givingwhatwecan.org).
+
 
 ## Contact
 
@@ -18,4 +19,4 @@ I am an aspiring [effective altruist](https://www.effectivealtruism.org/) and me
 
 [Give anonymous comments or feedback](https://www.admonymous.co/tristancook)
 
-[Facebook](https://www.facebook.com/tristan.cook.0/) \| [LinkedIn](https://www.facebook.com/tristan.cook.0/)
+[Facebook](https://www.facebook.com/tristan.cook.0/) \| [LinkedIn](https://uk.linkedin.com/in/tristan--cook/)
